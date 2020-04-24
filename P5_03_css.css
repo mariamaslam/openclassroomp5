@@ -1,0 +1,102 @@
+body {
+ background-image: url("./wallpaper-29562.jpg");
+ 
+}
+
+#logo
+{
+    width: 50;
+    height: 50;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+} 
+
+.title{
+    font-family: Chalkduster, fantasy;
+}
+
+.center{
+    text-align: center;
+}
+
+#head
+    {
+        width: 99.8%;
+    }
+
+h1
+{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-variant: small-caps
+}
+
+*
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+
+
+#header {
+    
+    margin-left: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: auto;
+    padding-bottom: 20px;
+    align-content:  center;
+    height: 85px;
+    width: 751px; 
+    
+}
+
+#content-bg-bottom {
+    
+
+    font-family: 'Cambria', Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    align-content:  center;
+}
+
+.form-control {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content:  center;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #495057;
+    border-radius: .25em; 
+    padding-bottom:10px; 
+    line-height: 3; 
+    overflow: hidden;
+   
+}
+
+.form-group{
+    display: flex;
+    justify-content: center;
+
+}
+
+#textarea{
+   max-width: 600px;
+   margin: 0 auto;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    background-color:	#F4A460;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+  }
